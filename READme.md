@@ -4,11 +4,17 @@
 
 Fall 2017, DATA 550 Data Visualization by Dr. Bora Pajo
 
-## PURPOSE - To analyze the Iris data from Kaggle. To write a description of each line of code and make modifications 
+## PURPOSE
 
-## DATA SOURCE -  https://www.kaggle.com/benhamner/python-data-visualizations
+To analyze the Iris data from Kaggle. To write a description of each line of code and make modifications 
 
-## KAGGLE LINK - https://www.kaggle.com/oddinigwe
+## DATA SOURCE 
+
+https://www.kaggle.com/benhamner/python-data-visualizations
+
+## KAGGLE LINK 
+
+https://www.kaggle.com/oddinigwe
 
 
 ## AUTHOR'S NAME AND CONTACT
