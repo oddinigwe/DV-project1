@@ -18,7 +18,7 @@ The columns in the IRIS dataset include: Id, SepalLengthCm, SepalWidthCm, PetalL
 
 ## KAGGLE LINK 
 
-https://www.kaggle.com/oddinigwe
+https://www.kaggle.com/oddinigwe/iris-flower-project/
 
 
 ## AUTHOR'S NAME AND CONTACT
