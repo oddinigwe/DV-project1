@@ -14,14 +14,7 @@ Using pandas, seaborn, matplotlib to create scatterplots, seaborn jointplot, box
 
 https://www.kaggle.com/benhamner/python-data-visualizations
 
-The columns in this dataset include:
-
-Id
-SepalLengthCm
-SepalWidthCm
-PetalLengthCm
-PetalWidthCm
-Species
+The columns in the IRIS dataset include: Id, SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm, and Species
 
 ## KAGGLE LINK 
 
