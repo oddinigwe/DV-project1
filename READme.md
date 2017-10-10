@@ -24,6 +24,8 @@ https://www.kaggle.com/oddinigwe/iris-flower-project/
 
 Oddinigwe Onyemenem - oddinigwe@gmail.com
 
+## INPUTS AND OUTPUTS
+
 ```
 #to enable visualizations 
 %matplotlib inline
