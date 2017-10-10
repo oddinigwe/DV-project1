@@ -1,3 +1,4 @@
+
 # IRIS PROJECT
 
 ## SEMESTER AND CLASS TITLE
@@ -23,3 +24,5 @@ https://www.kaggle.com/oddinigwe/iris-flower-project/
 ## AUTHOR'S NAME AND CONTACT
 
 Oddinigwe Onyemenem - oddinigwe@gmail.com
+
+![GitHub Logo](output_10_1.png)  
