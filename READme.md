@@ -108,7 +108,7 @@ changed edge color
 ax = sns.boxplot(x="Species", y="PetalLengthCm", data=iris)
 ax = sns.stripplot(x="Species", y="PetalLengthCm", data=iris, jitter=True, size = 6, edgecolor="black")
 ```
-![GitHub Logo](output_8_1.png)
+![GitHub Logo](output_8_0.png)
 
 ```
 A violin plot combines the benefits of the previous two plots and simplifies them
