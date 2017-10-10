@@ -1,4 +1,3 @@
-
 # IRIS PROJECT
 
 ## SEMESTER AND CLASS TITLE
@@ -25,4 +24,20 @@ https://www.kaggle.com/oddinigwe/iris-flower-project/
 
 Oddinigwe Onyemenem - oddinigwe@gmail.com
 
-![GitHub Logo](output_10_1.png)  
+![GitHub Logo](output_2_1.png)  
+![GitHub Logo](output_3_1.png)
+![GitHub Logo](output_4_1.png)
+![GitHub Logo](output_5_1.png)
+![GitHub Logo](output_6_1.png)
+![GitHub Logo](output_7_1.png)
+![GitHub Logo](output_8_1.png)
+![GitHub Logo](output_9_1.png)
+![GitHub Logo](output_10_1.png)
+![GitHub Logo](output_11_1.png)
+![GitHub Logo](output_12_1.png)
+![GitHub Logo](output_13_1.png)
+![GitHub Logo](output_14_1.png)
+![GitHub Logo](output_15_1.png)
+![GitHub Logo](output_16_1.png)
+
+![GitHub Logo](DataVisualization_Project1.ipynb)
