@@ -41,6 +41,7 @@ sns.set(style="white", color_codes=True)
 # Next, we'll load the Iris flower dataset, which is in the specified directory below
 iris = pd.read_csv("Iris.csv") # this makes the iris dataset a Pandas Dataframe
 ```
+```
 to count the frequency of values for each species
 iris["Species"].value_counts()
 
@@ -49,26 +50,26 @@ Iris-virginica     50
 Iris-versicolor    50
 Iris-setosa        50
 Name: Species, dtype: int64
-
+```
 ```
 Use the .plot extension from Pandas dataframes to plot things
 Use this to make a scatterplot of the Iris features-sepallengthcm on the x-axis and sepalwidthcm on the y-axis.
 iris.plot(kind="scatter", x="SepalLengthCm", y="SepalWidthCm")
-
 ```
-![GitHub Logo](output_2_1.png)  
+![GitHub Logo](output_2_1.png) 
+```
 Use the .plot extension from Pandas dataframes to plot things
 Use this to make a scatterplot of the Iris features-sepallengthcm on the x-axis and sepalwidthcm on the y-axis.
 iris.plot(kind="scatter", x="SepalLengthCm", y="SepalWidthCm")```
-
 ```
 ![GitHub Logo](output_3_1.png)
+```
 Use the .plot extension from Pandas dataframes to plot things
 Use this to make a scatterplot of the Iris features-petallengthcm on the x-axis and petalwidthcm on the y-axis.
 iris.plot(kind="scatter", x="PetalLengthCm", y="PetalWidthCm")```
-
 ```
 ![GitHub Logo](output_4_1.png)
+
 ```
 Use the seaborn library to make a similar plot
 Seaborn jointplot shows two kinds of distribution in one visualization i.e. bivariate scatterplots and univariate histograms in the same figure
@@ -83,7 +84,7 @@ Seaborn jointplot shows two kinds of distribution in one visualization
 i.e. bivariate scatterplots and univariate histograms in the same figure
 changed the size to 8 to make it bigger
 sns.jointplot(x="PetalLengthCm", y="PetalWidthCm", data=iris, size=8)
- ```
+```
 ![GitHub Logo](output_6_1.png)
 ```
 One piece of information missing in the plots above is what species each plant is
@@ -129,7 +130,7 @@ sns.FacetGrid(iris, hue="Species", size=6) \
 ```
 ![GitHub Logo](output_11_1.png)
 ```
-Use Pairplot to depictmpairwise relationship between the features in the Iris dataset
+Use Pairplot to depict mpairwise relationship between the features in the Iris dataset
 From the pairplot, we'll see that the Iris-setosa species is separataed from the other
 two across all feature combinations
 sns.pairplot(iris.drop("Id", axis=1), hue="Species", size=3)
