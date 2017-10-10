@@ -24,7 +24,7 @@ https://www.kaggle.com/oddinigwe/iris-flower-project/
 
 Oddinigwe Onyemenem - oddinigwe@gmail.com
 
-![GitHub Logo](Capture1.jpeg)
+![GitHub Logo](Capture1.png)
 ![GitHub Logo](output_2_1.png)  
 ![GitHub Logo](output_3_1.png)
 ![GitHub Logo](output_4_1.png)
