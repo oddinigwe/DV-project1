@@ -30,8 +30,27 @@ Use this to make a scatterplot of the Iris features-sepallengthcm on the x-axis 
 iris.plot(kind="scatter", x="SepalLengthCm", y="SepalWidthCm")
 ```
 ![GitHub Logo](output_2_1.png)  
+```
+Use the .plot extension from Pandas dataframes to plot things
+Use this to make a scatterplot of the Iris features-petallengthcm on the x-axis and petalwidthcm on the y-axis.
+iris.plot(kind="scatter", x="PetalLengthCm", y="PetalWidthCm")
+```
 ![GitHub Logo](output_3_1.png)
+```
+Use the seaborn library to make a similar plot
+Seaborn jointplot shows two kinds of distribution in one visualization i.e. bivariate scatterplots and univariate histograms in the same figure
+changed the size to 8 to make it bigger
+sns.jointplot(x="SepalLengthCm", y="SepalWidthCm", data=iris, size=8)
+```
 ![GitHub Logo](output_4_1.png)
+```
+using the petallegth and petalwidth features
+Use the seaborn library to make a similar plot for the petallength and petalwidth
+Seaborn jointplot shows two kinds of distribution in one visualization
+i.e. bivariate scatterplots and univariate histograms in the same figure
+changed the size to 8 to make it bigger
+sns.jointplot(x="PetalLengthCm", y="PetalWidthCm", data=iris, size=8)
+```
 ![GitHub Logo](output_5_1.png)
 ![GitHub Logo](output_6_1.png)
 ![GitHub Logo](output_7_1.png)
