@@ -28,7 +28,7 @@ Oddinigwe Onyemenem - oddinigwe@gmail.com
 Use the .plot extension from Pandas dataframes to plot things
 Use this to make a scatterplot of the Iris features-sepallengthcm on the x-axis and sepalwidthcm on the y-axis.
 iris.plot(kind="scatter", x="SepalLengthCm", y="SepalWidthCm")
-
+```
 ![GitHub Logo](output_2_1.png)  
 ![GitHub Logo](output_3_1.png)
 ![GitHub Logo](output_4_1.png)
