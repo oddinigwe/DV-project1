@@ -96,9 +96,10 @@ this shows the distribution of the petal length
 sns.boxplot(x="Species", y="PetalLengthCm", data=iris)
 ```
 ![GitHub Logo](output_7_1.png)
+
 ```
 A good way to complement the boxplot is by using the Seaborn's striplot
-Use jitter=True so that all the points are not represented(clustered) on the same axis,
+Use jitter=True so that all the points are not represented(clustered) on the same axis
 this allows the data to be properly represented
 Saving the resulting axes as ax each time causes the resulting plot to be shown
 on top of the previous axes
@@ -108,6 +109,7 @@ ax = sns.boxplot(x="Species", y="PetalLengthCm", data=iris)
 ax = sns.stripplot(x="Species", y="PetalLengthCm", data=iris, jitter=True, size = 6, edgecolor="black")
 ```
 ![GitHub Logo](output_8_1.png)
+
 ```
 A violin plot combines the benefits of the previous two plots and simplifies them
 Violin plot, unlike box plots, depict the density of the data
