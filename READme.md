@@ -113,6 +113,7 @@ ax = sns.boxplot(x="Species", y="PetalLengthCm", data=iris)
 ax = sns.stripplot(x="Species", y="PetalLengthCm", data=iris, jitter=True, size = 6, edgecolor="black")
 ```
 ![GitHub Logo](output_9_1.png)
+
 ```
 A violin plot combines the benefits of the previous two plots and simplifies them
 Violin plot, unlike box plots, depict the density of the data
@@ -121,6 +122,7 @@ further showing the distributions of the features i.e. petallength
 sns.violinplot(x="Species", y="PetalLengthCm", data=iris, size=8)
  ```
 ![GitHub Logo](output_10_1.png)
+
 ```
 A final seaborn plot useful for looking at univariate relations is the kdeplot,
 which creates and visualizes a kernel density estimate of the underlying feature
@@ -129,6 +131,7 @@ sns.FacetGrid(iris, hue="Species", size=6) \
    .add_legend()
 ```
 ![GitHub Logo](output_11_1.png)
+
 ```
 Use Pairplot to depict mpairwise relationship between the features in the Iris dataset
 From the pairplot, we'll see that the Iris-setosa species is separataed from the other
