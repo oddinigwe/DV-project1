@@ -1,3 +1,6 @@
+# IRIS PROJECT
+
+## SEMESTER AND CLASS TITLE
 
 Fall 2017, DATA 550 Data Visualization by Dr. Bora Pajo
 
